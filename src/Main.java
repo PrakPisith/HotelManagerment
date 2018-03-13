@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Hello all Group members");
         System.out.println("Hello Group 4");
         System.out.println("Hello world");
-        System.out.println("Hello Everyone");
+       
     }
 
 }
