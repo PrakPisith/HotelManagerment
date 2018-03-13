@@ -1,6 +1,9 @@
 public class Main {
 
     public static void main(String[] arqs){
-        System.out.print("Hello all Group members");
+
+        System.out.println("Hello all Group members");
+        System.out.println("Hello Group 4");
     }
+
 }
