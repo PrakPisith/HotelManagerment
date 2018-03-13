@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Hello Group 4");
         System.out.println("Hello world");
         show();
+        System.out.println("asdf");
     }
 
     public static void show(){
